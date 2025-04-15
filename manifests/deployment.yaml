@@ -19,6 +19,5 @@ spec:
           image: ghcr.io/miron-boiangiu/ci_cd_lab:latest
           ports:
             - containerPort: 8080
-      syncPolicy:
-        automated: {}
+
 
